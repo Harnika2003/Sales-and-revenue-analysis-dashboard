@@ -1,3 +1,4 @@
+<img width="1317" height="708" alt="Sales and Revenue analysis Dashboard" src="https://github.com/user-attachments/assets/c7e4802c-10a2-4363-90d6-a240b6145ced" />
 Sales and Revenue Analysis Dashboard – Power BI
 
 A professional Sales and Revenue Analysis Dashboard built in Power BI to provide actionable business insights. The dashboard visualizes sales trends, revenue contributions, and transaction patterns, enabling data-driven decisions.
